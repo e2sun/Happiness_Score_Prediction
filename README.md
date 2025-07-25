@@ -22,7 +22,7 @@ The project follows the complete ML pipeline — from data cleaning and feature 
 
 - `HappinessScore.ipynb` — Main notebook for Lab 8 (EDA, modeling, and evaluation)  
 - `HappinessScore.py` — Script version of the notebook for reproducibility  
--  Dataset loaded from World Happiness Report in `WHR2018Chapter2OnlineData.csv`
+- `WHR2018Chapter2OnlineData.csv` - Dataset loaded from World Happiness Report 
 ---
 
 ## ✅ Key Insights
